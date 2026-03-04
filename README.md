@@ -16,50 +16,58 @@ Como entusiasta da tecnologia, estou sempre buscando aprender e aplicar as mais 
 
 <hr />
 
-<h3 align="left">Tecnologias:</h3>
 <table>
+<caption align="left">Tecnologias:</caption>
+
+ <thead>
+  <tr>
+   <th>C#</th>
+   <th>.NET</th>
+   <th>RabbitMQ</th>
+   <th>Redis</th>
+   <th>Docker</th>
+   <th>TypeScript</th>
+  </tr>
+ </thead>
+
+ <tbody>
 <tr>
   <td align="center">
-   <p>C#</p>
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="50" height="50"/>
    </a>
-</td>
+  </td>
 
-  <td align="center">
-   <p>.NET</p>
+ <td align="center">
    <a href="https://learn.microsoft.com/pt-br/dotnet" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="50" height="50"/>
    </a> 
-</td>
+  </td>
 
-  <td align="center">
-   <p>RabbitMQ</p>
-   <a href="https://www.rabbitmq.com/docs" target="_blank" rel="noreferrer">
+ <td align="center">
+    <a href="https://www.rabbitmq.com/docs" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="50" height="50"/>
    </a> 
 </td>
 
-  <td align="center">
-   <p>Redis</p>
+   <td align="center">
    <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" alt="redis" width="50" height="50"/> 
    </a>  
 </td>
-  
-  <td align="center">
-   <p>Docker</p>
+
+   <td align="center">
    <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
    </a>
   </td>
 
-  <td align="center">
-   <p>TypeScript</p>
+   <td align="center">
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
    </a>
 </td>
-
 </tr>
+
+</tbody>
 </table>
